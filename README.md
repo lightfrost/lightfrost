@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&desc=어라니러ㅣㅏ갸더랖)
+![header](https://capsule-render.vercel.app/api?type=waving&desc=&color=5CEEE6)
